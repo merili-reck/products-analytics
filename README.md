@@ -1,6 +1,6 @@
-# products-analytics
+# product-analytics
 
-   # [Products Analytics] -- UrbanStyle.ltd Andmemeeskond
+   # [Product Analytics] -- UrbanStyle.ltd Andmemeeskond
    ## Meeskonnaliikmed
    | Nimi | Roll (Nädal 1) | OS |
    | [Johanna] | NotebookLM seadistaja | Win |
