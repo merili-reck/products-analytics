@@ -23,7 +23,7 @@ ROLLIDE ROTATSIOON:
 Nädal 0: A=Merili B=Katri C=Johanna D=Merili
 Nädal 1: A=Johanna B=Merili C=Sigrid D=Johanna
 Nädal 2: A=Sigrid B=Johanna C=Merili D=Katri
-Nädal 3: A=Katri B=Sigrid C=Merili D=Johanna
+Nädal 3: A=Katri B=Merili C=Sigrid D=Johanna
 Nädal 4: A=Merili B=Johanna C=Katri D=Sigrid
 
 ALLKIRJAD:  1. suuline  2. suuline
