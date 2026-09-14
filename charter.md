@@ -4,7 +4,8 @@
 
 1. Johanna (OS: Win)
 2. Katri (OS: Win)
-3. Merili (OS: Win)
+3. Sigrid (OS: Win)
+4. Merili (OS: Win)
 
 ## Ühised tööriistad
 
