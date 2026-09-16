@@ -36,7 +36,7 @@
 | 2 | Sigrid | Johanna | Merili | Katri |
 | 3 | Katri | Merili | Sigrid | Johanna |
 | 4 | Merili | Johanna | Katri | Sigrid |
-| 5 | Sigrid | Merili | Johanna | Katri |
+| 5 | Sigrid | Katri | Johanna | Merili |
 | 6 | Katri | Sigrid | Merili | Johanna |
 | 7 | Johanna | Katri | Sigrid | Merili |
 | 8 | Merili | Johanna | Katri | Sigrid |
