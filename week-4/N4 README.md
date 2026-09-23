@@ -12,3 +12,4 @@ Meie meeskond analüüsis UrbanStyle’i andmeid SQL Agregatsiooni abil. Uurisim
 - **Sigrid** – D-roll: Turunduskampaaniate ROI
 
 ## Meeskonna ühine töö
+https://docs.google.com/presentation/d/11OZd8eIa19jPC5OMbAuGoFpMlSK3P-uP-JZpjdlD2Fg/edit?slide=id.p1#slide=id.p1
