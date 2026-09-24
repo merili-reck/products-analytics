@@ -20,7 +20,7 @@ Meie meeskond visualiseeris ja analüüsis UrbanStyle’i andmeid Power BI töö
 | Sinine | #0072B2 | Tartu |
 | Merevaigukollane | #E69F00 | Online |
 | Taevasinine | #56B4E9 | Kasv/positiivne (koos ▲) |
-| Vermilion | #D55E00 | Langus/negatiivne (koos ▼) |
+| Oranž | #D55E00 | Langus/negatiivne (koos ▼) |
 
 ## Meeskonna ühine töö
 
