@@ -20,7 +20,11 @@ Töötav end-to-end pipeline, kus 4 moodulit ühendatakse üheks süsteemiks.
 
 ## Peamised tulemused
 
-?????
+Supabase'ist saime 10 086 müügirida ja 3150 klienti. 
+Pärast puhastamist jäi alles 9045 müügirida. 
+Kogumüügitulu oli 2,6 miljonit eurot, unikaalseid kliente oli 2549 ja keskmine tellimus 287,63 €. 
+Pipeline töötas 5,65 sekundiga ning lõi CSV-faili ja kaks HTML-väljundit. 
+Müügitulu kõikus nädalate lõikes ning 2024. aasta näitajad paistsid üldiselt kõrgemad kui 2023. aastal.
 
 ## Koostöö
 
